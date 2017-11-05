@@ -73,7 +73,7 @@ try:
 		soma += int(listData[aux])
 		aux+=1
 
-	media = soma / rand_int
+	media = soma / (rand_int - 1)
 	horario = media
 	aux =0
 	for k in range(2,rand_int):
