@@ -8,4 +8,4 @@ ou ajustada, desprezando-se valores extremos, o que permite contornar eventuais 
 relógios. Também é possível considerar o tempo de comunicação entre as máquinas. Nesse algoritmo, 
 não há necessidade de que o “servidor de tempo” consulte um serviço de hora atômica.
 
-Desenvolvedores: Bruno Sousa e * [Mardônio Vieira](https://github.com/mardoniovieira)
+Desenvolvedores: Bruno Sousa e [Mardônio Vieira](https://github.com/mardoniovieira)
